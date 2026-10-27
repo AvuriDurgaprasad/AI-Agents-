@@ -1,0 +1,23 @@
+{
+  "synthetic": true,
+  "lead_id": "DEMO-LEAD-001",
+  "name": "Demo Buyer",
+  "contact_phone": null,
+  "contact_placeholder": "PHONE_TO_BE_COLLECTED_WITH_CONSENT_IN_FUTURE_RUNTIME",
+  "preferred_language": "te",
+  "requirements": {
+    "location": "Rajamahendravaram",
+    "property_type": "apartment",
+    "bedrooms": 2,
+    "budget_max_inr": 5000000
+  },
+  "interested_property_ids": [
+    "DEMO-001"
+  ],
+  "requested_action": "human_callback",
+  "preferred_callback_time": null,
+  "consent_to_contact": false,
+  "consent_recorded_at": null,
+  "status": "draft_unsent",
+  "site_visit_confirmed": false
+}

@@ -1,0 +1,29 @@
+{
+  "synthetic": true,
+  "currency": "INR",
+  "notice": "Fictional demo listings. Not real offers. Availability and approvals are not verified.",
+  "properties": [
+    {
+      "id": "DEMO-001",
+      "title": "Sample Riverside Apartment",
+      "location": "Rajamahendravaram",
+      "property_type": "apartment",
+      "bedrooms": 2,
+      "price_inr": 4800000,
+      "area_sq_ft": 1100,
+      "availability": "unverified_demo",
+      "legal_approval": null
+    },
+    {
+      "id": "DEMO-002",
+      "title": "Sample Garden House",
+      "location": "Korukonda",
+      "property_type": "independent_house",
+      "bedrooms": 2,
+      "price_inr": 4200000,
+      "area_sq_ft": 1200,
+      "availability": "unverified_demo",
+      "legal_approval": null
+    }
+  ]
+}

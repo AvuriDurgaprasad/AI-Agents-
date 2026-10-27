@@ -1,0 +1,24 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local/private customer data
+private-data/
+recordings/
+transcripts/
+logs/
+*.log
+
+# Common generated files; runtime is still TBD
+node_modules/
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
